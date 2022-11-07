@@ -2,9 +2,7 @@
 
 #### Fun-Translator Valyrian
 * Made with HTML and JavaScript.
-* Respository is deployed with GitHub Pages. [View live demo](xxxxx)
-
-
+* Respository is deployed with GitHub Pages. [View live demo](https://goebel-florian.github.io/TOE_task2/)
 
 #### Features
 1. Takes text from user.
